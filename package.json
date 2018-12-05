@@ -1,0 +1,19 @@
+{
+  "name": "cordova-img-downloader",
+  "version": "0.1.0",
+  "description": "Download image files or base64 encoded data as image to ios photo gallery",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CouleurCitron/ImgDownloader.git"
+  },
+  "keywords": [
+    "cordova",
+    "download",
+    "image",
+    "image base64 data",
+    "photo directory",
+    "photos gallery"
+  ],
+  "author": "Wenshung",
+  "license": "MIT"
+}
